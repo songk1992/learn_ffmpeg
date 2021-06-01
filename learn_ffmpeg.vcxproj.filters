@@ -21,6 +21,9 @@
     <ClCompile Include="ffmpegFn.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="learn_ffmpeg02.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ffmpegFn.h">
